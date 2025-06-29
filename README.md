@@ -4,7 +4,8 @@ Yet another EDA of time series sales data
 from [Kaggle](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data?select=stores.csv)
 
 ## Requirements
-TBW
+* [Jupyter Lab](https://jupyter.org/)
+* [Pandas](https://pandas.pydata.org/)
 
 ## Running Instructions
-TBW
+* Begin a JupyterLab instance with `jupyter lab` command
